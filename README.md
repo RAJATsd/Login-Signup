@@ -1,5 +1,5 @@
 # Login-Signup
-This is a node project for basic login and signup of a user which uses session.
+This is a simple node app for basic login and signup of a user which uses session.
 
 Steps to run it on your machine :
 1. Open the project in you code editor
